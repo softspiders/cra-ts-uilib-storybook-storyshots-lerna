@@ -2,6 +2,8 @@
 
 Minimalistic React module in TypeScript with Storybook and Storyshots
 
+UNDER CONSTRUCTION
+
 ## Feature tags
 
 - jest
@@ -18,13 +20,7 @@ Minimalistic React module in TypeScript with Storybook and Storyshots
 
 ## Direct feature ancestors
 
-- [typescript-test](https://github.com/softspider/typescript-test)
-- [typescript](https://github.com/softspider/typescript)
-
-
-## Direct feature descendants
-
-- [Minimalistic React module in TypeScript with Storybook and Snapshot testing](https://github.com/softspider/cra-ts-storybook-storyshots-lerna)
+- [Minimalistic React module in TypeScript with Storybook and Snapshot testing](https://github.com/softspider/react-ts-storybook-storyshots)
 
 ---
 
@@ -85,9 +81,4 @@ yarn storybook
 
 ### License
 
-Licensed under the [MIT license](./LICENSE).
-
-
-## Inspired by
-
-[shisama/react-storybook-storyshots-example](https://github.com/shisama/react-storybook-storyshots-example)
+Licensed under the [MIT license](./LICENSE)
