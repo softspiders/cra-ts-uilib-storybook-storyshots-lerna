@@ -1,6 +1,6 @@
-# react-ts-storybook-storyshots
+# cra-ts-storybook-storyshots-lerna
 
-Minimalistic React module in TypeScript with Storybook and Storyshots
+Minimalistic Create-React-App module in TypeScript with Storybook and Storyshots. All - in Lerna monorepo.
 
 UNDER CONSTRUCTION
 
