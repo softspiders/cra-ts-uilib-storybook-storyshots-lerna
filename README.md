@@ -26,9 +26,10 @@ UNDER CONSTRUCTION
 
 ## Requirements
 
-* [Node.js](https://nodejs.org/en/download/package-manager/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [Storybook](https://storybook.js.org/docs/guides/quick-start-guide/)
+* [*Node*](https://nodejs.org/en/download/package-manager/)
+* [*create-react-app*](https://facebook.github.io/create-react-app/)
+* [*TypeScript*](https://www.typescriptlang.org/)
+* [*Lerna*](https://lerna.js.org/)
 
 ---
 
