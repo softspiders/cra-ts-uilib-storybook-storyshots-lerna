@@ -18,9 +18,9 @@ UNDER CONSTRUCTION
 
 ---
 
-## Direct feature ancestors
+## Direct feature and code ancestors
 
-- [Minimalistic React module in TypeScript with Storybook and Snapshot testing](https://github.com/softspider/react-ts-storybook-storyshots)
+[Minimalistic React module in TypeScript with Storybook and Snapshot testing](https://github.com/softspider/react-ts-storybook-storyshots)
 
 ---
 
