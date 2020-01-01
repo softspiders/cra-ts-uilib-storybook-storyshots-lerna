@@ -7,6 +7,7 @@ UNDER CONSTRUCTION
 ## Feature tags
 
 - jest
+- lerna
 - react
 - snapshot
 - storybook
