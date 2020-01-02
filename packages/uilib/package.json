@@ -1,0 +1,7 @@
+{
+  "name": "uilib",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "echo test not defined yet"
+  }
+}
