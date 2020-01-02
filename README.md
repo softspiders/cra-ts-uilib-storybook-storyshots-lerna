@@ -35,24 +35,20 @@ Minimal template for Create-React-App in TypeScript based on UI lib with Storybo
 
 ## Installation
 
-In addition to the above pre-installation requirements, you must also install the *cross-env* package.
-It is needed for environment variables unified settings (for Linux, Windows, ...) in *scripts* of *package.json*.
+It is worth noting that in order to unify the settings of environment variables, you must have the cross-env package
+previously installed. In this case - for *cra-app* *package.json* *scripts*.
 
-## Install cross-env package
+### Bootstrap
 
-```
-npm i --save-dev cross-env
-```
-
-or if you want install it globally:
+To install all packages dependencies, being in the root directory, run
 
 ```
-npm i -g cross-env
+npm run bootstrap
 ```
 
 ## Test
 
-Being in the root directory, run
+To run tests of all packages, being in the root directory, run
 
 ```
 npm run test
