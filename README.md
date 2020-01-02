@@ -19,7 +19,7 @@ Minimal template for Create-React-App in TypeScript based on UI lib with Storybo
 
 ## Direct feature and code ancestors
 
-- [Minimalistic React module in TypeScript with Storybook and Snapshot testing](https://github.com/softspider/react-ts-storybook-storyshots)
+- [Minimalistic React module in TypeScript with Storybook and Storyshots](https://github.com/softspider/react-ts-storybook-storyshots)
 - [lerna](https://github.com/softspider/lerna)
 
 ---
