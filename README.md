@@ -1,8 +1,6 @@
 # cra-ts-uilib-storybook-storyshots-lerna
 
-Minimalistic Create-React-App module in TypeScript with Storybook and Storyshots. All - in Lerna monorepo.
-
-UNDER CONSTRUCTION
+Minimal template for Create-React-App in TypeScript based on UI lib with Storybook and Storyshots in Lerna monorepo
 
 ## Feature tags
 
@@ -21,7 +19,8 @@ UNDER CONSTRUCTION
 
 ## Direct feature and code ancestors
 
-[Minimalistic React module in TypeScript with Storybook and Snapshot testing](https://github.com/softspider/react-ts-storybook-storyshots)
+- [Minimalistic React module in TypeScript with Storybook and Snapshot testing](https://github.com/softspider/react-ts-storybook-storyshots)
+- [lerna](https://github.com/softspider/lerna)
 
 ---
 
@@ -34,53 +33,36 @@ UNDER CONSTRUCTION
 
 ---
 
-## Istallation
+## Installation
 
-```sh
-yarn
+In addition to the above pre-installation requirements, you must also install the *cross-env* package.
+It is needed for environment variables unified settings (for Linux, Windows, ...) in *scripts* of *package.json*.
+
+## Install cross-env package
+
+```
+npm i --save-dev cross-env
 ```
 
-or
+or if you want install it globally:
 
-```sh
-npm i
+```
+npm i -g cross-env
 ```
 
+## Test
 
-## Running
+Being in the root directory, run
 
-### Test
-
-```sh
-yarn test
+```
+npm run test
 ```
 
-### Build
-
-```sh
-yarn build
-```
-
-### Start
-
-```sh
-yarn start
-```
-
-### Storybook
-
-```sh
-yarn storybook
-```
-
----
-
-## Author
+## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
 
----
-
 ### License
 
-Licensed under the [MIT license](./LICENSE)
+Licensed under the [MIT license](./LICENSE). 
+
