@@ -1,6 +1,6 @@
 # cra-ts-uilib-storybook-storyshots-lerna
 
-Minimalistic Create-React-App module in TypeScript with Storybook and Storyshots. All - in Lerna monorepo.
+Minimalistic CRA in TypeScript with UiLib, Storybook and Storyshots in Lerna
 
 UNDER CONSTRUCTION
 
@@ -22,7 +22,7 @@ UNDER CONSTRUCTION
 ## Direct feature and code ancestors
 
 - [Minimalistic React module in TypeScript with Storybook and Snapshot testing](https://github.com/softspider/react-ts-storybook-storyshots)
-- [lerna](https://github.com/softspider/lerna-hw)
+- [lerna](https://github.com/softspider/lerna)
 
 ---
 
