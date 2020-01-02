@@ -2,6 +2,8 @@
 
 Minimal template for Create-React-App in TypeScript based on UI lib with Storybook and Storyshots in Lerna monorepo
 
+UNDER CONSTRUCTION
+
 ## Feature tags
 
 - jest
