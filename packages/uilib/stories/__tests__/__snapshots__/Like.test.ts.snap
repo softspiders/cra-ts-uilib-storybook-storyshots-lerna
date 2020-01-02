@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Hello One 1`] = `
+<div>
+  Hello, 
+  Anna
+   !
+</div>
+`;
+
+exports[`Storyshots Hello Zero 1`] = `
+<div>
+  Hello, 
+  Alexander
+   !
+</div>
+`;
