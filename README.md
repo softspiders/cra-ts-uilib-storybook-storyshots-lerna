@@ -35,8 +35,8 @@ Minimal template for Create-React-App in TypeScript based on UI lib with Storybo
 
 ## Installation
 
-It is worth noting that in order to unify the settings of environment variables, you must have the cross-env package
-previously installed. In this case - for *cra-app* *package.json* *scripts*.
+It is worth noting that in order to unify the settings of environment variables, you must have the *cross-env* package
+previously installed. See usage in  *cra-app* *package.json* *test* script.
 
 ### Bootstrap
 
