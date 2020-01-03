@@ -1,6 +1,8 @@
 # cra-ts-uilib-storybook-storyshots-lerna
 
-Minimal template for Create-React-App in TypeScript based on UI lib with Storybook and Storyshots in Lerna monorepo
+Minimalistic template for [*Create-React-App*](https://create-react-app.dev/) in
+[*TypeScript*](https://www.typescriptlang.org/) based on UI lib with [*Storybook*](https://storybook.js.org/) and
+[*Storyshots*](https://storybook.js.org/docs/testing/structural-testing/) in [*Lerna*](https://lerna.js.org/) monorepo
 
 ## Feature tags
 
@@ -84,6 +86,16 @@ npm run update:storyshots
 ```
 
 ---
+
+## Build *uilib* bundle
+
+Bundle of *uilib* library can be obtained executing the command
+
+```
+npm run build:lib
+```
+
+The resulting package is located in the *packages/uilib/public/index.js* file.
 
 ## Clean
 
