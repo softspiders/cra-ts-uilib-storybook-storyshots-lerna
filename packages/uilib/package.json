@@ -6,8 +6,7 @@
   "scripts": {
     "test": "jest",
     "build": "webpack",
-    "libbuild": "tsc && tsc --build tsconfig.esm.json",
-    "start_": "webpack-dev-server",
+    "start": "webpack-dev-server",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook -o public"
   },
@@ -16,12 +15,13 @@
     "url": "git+https://github.com/softspider/react-ts-storybook-storyshots.git"
   },
   "keywords": [
+    "lib",
     "react",
     "storybook",
     "storyshot",
     "jest",
     "test",
-    "template"
+    "ui"
   ],
   "author": "AlexanderLapygin",
   "license": "MIT",
@@ -34,7 +34,7 @@
     "react-dom": "^16.9.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.4",
+    "@babel/core": "^7.6.0",
     "@babel/preset-env": "^7.6.0",
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-typescript": "^7.6.0",

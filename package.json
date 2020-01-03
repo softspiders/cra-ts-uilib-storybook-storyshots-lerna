@@ -9,6 +9,8 @@
     "bootstrap": "lerna bootstrap",
     "start": "lerna run start --stream",
     "test": "lerna run test --stream",
+    "test:lib": "lerna run --scope @softspiders/uilib test",
+    "update:storyshots": "cd packages/uilib && npm run test -- -u",
     "clean": "lerna clean"
   },
   "devDependencies": {

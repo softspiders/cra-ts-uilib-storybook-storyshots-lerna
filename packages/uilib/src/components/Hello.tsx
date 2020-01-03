@@ -8,7 +8,7 @@ export const Hello = ({ name }: Props) => {
   return (
     <>
       <div>
-        HELLO, {name} !!!
+        Hello, {name} !
       </div>
     </>
   );

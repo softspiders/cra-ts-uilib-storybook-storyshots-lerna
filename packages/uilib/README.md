@@ -35,7 +35,7 @@ Minimalistic React module in TypeScript with Storybook and Storyshots
 
 ---
 
-## Standalone istallation
+## Istallation
 
 ```sh
 yarn
