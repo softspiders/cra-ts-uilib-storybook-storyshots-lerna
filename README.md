@@ -85,6 +85,14 @@ npm run update:storyshots
 
 ---
 
+## Clean
+
+To clear node_modules in all packages, being in the root directory, run
+
+```
+npm run clean
+```
+
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
