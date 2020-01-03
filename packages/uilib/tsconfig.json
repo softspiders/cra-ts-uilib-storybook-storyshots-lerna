@@ -1,19 +1,27 @@
 {
-  "compilerOptions": {
-    "allowSyntheticDefaultImports": true,
-    "noImplicitAny": true,
-    "module": "es6",
-    "lib": ["esnext", "dom"],
-    "target": "es5",
-    "jsx": "react",
-    "rootDirs": ["src"],
-    "allowJs": true
-  },
   "include": [
     "src/**/*"
   ],
   "exclude": [
+    "dist",
+    "lib",
+    "lib-esm",
     "node_modules",
-    "dist"
-  ]
+    "**/*.spec*",
+    "**/*.story*"
+  ],
+  "extends": "../../tsconfig.json",
+
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "jsx": "react",
+    "lib": ["esnext", "dom"],
+    "module": "es6",
+    "noImplicitAny": true,
+    "outDir": "lib",
+    "rootDirs": ["src"],
+    "target": "es5"
+  }
 }

@@ -1,12 +1,13 @@
 {
-  "name": "react-ts-storybook-storyshots",
+  "name": "@softspiders/uilib",
   "version": "0.1.0",
   "description": "Minimalistic React module in TypeScript with Storybook and Storyshots",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "build": "webpack",
-    "start": "webpack-dev-server",
+    "libbuild": "tsc && tsc --build tsconfig.esm.json",
+    "start_": "webpack-dev-server",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook -o public"
   },
@@ -33,7 +34,7 @@
     "react-dom": "^16.9.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.0",
+    "@babel/core": "^7.6.4",
     "@babel/preset-env": "^7.6.0",
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-typescript": "^7.6.0",
