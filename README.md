@@ -2,8 +2,6 @@
 
 Minimal template for Create-React-App in TypeScript based on UI lib with Storybook and Storyshots in Lerna monorepo
 
-UNDER CONSTRUCTION
-
 ## Feature tags
 
 - jest
@@ -35,7 +33,7 @@ UNDER CONSTRUCTION
 
 ---
 
-## Installation
+## Install
 
 It is worth noting that in order to unify the settings of environment variables, you must have the *cross-env* package
 previously installed. See usage in  *cra-app* *package.json* *test* script.
@@ -48,6 +46,20 @@ To install all packages dependencies, being in the root directory, run
 npm run bootstrap
 ```
 
+## Run
+
+### Start
+
+```sh
+npm run start
+```
+
+### Run Storybook
+
+```sh
+npm run storybook
+```
+
 ## Test
 
 To run tests of all packages, being in the root directory, run
@@ -55,6 +67,23 @@ To run tests of all packages, being in the root directory, run
 ```
 npm run test
 ```
+
+### Test ui library
+
+```
+npm run test:lib
+```
+
+### Update storyshots
+
+When testing the user interface library shows storyshot errors (the difference between the new and old storyshots), you
+can update the old one with the command 
+
+```
+npm run update:storyshots
+```
+
+---
 
 ## Authors
 
