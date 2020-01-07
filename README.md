@@ -9,11 +9,9 @@ Minimalistic template for [*Create-React-App*](https://create-react-app.dev/) in
 - jest
 - lerna
 - react
-- snapshot
 - storybook
 - storyshot
 - template
-- test
 - typescript
 - ui
 
