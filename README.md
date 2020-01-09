@@ -1,3 +1,4 @@
+SOFTSPIDERS
 # cra-ts-uilib-storybook-storyshots-lerna
 
 Minimalistic template for [*Create-React-App*](https://create-react-app.dev/) in
@@ -17,7 +18,7 @@ Minimalistic template for [*Create-React-App*](https://create-react-app.dev/) in
 
 ---
 
-## Direct feature and code ancestors
+## Direct ancestors (also by code)
 
 - [cra-ts-storybook-snapshot-testing](https://github.com/softspider/cra-ts-storybook-snapshot-testing)
 - [Minimalistic React module in TypeScript with Storybook and Storyshots](https://github.com/softspider/react-ts-storybook-storyshots)
