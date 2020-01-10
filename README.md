@@ -1,6 +1,10 @@
 SOFTSPIDERS
 # cra-ts-uilib-storybook-storyshots-lerna
 
+UNDER CONSTRUCTION
+
+CRA and Lerna do not support each other yet, so for now we are waiting with hope.
+
 Minimalistic template for [*Create-React-App*](https://create-react-app.dev/) in
 [*TypeScript*](https://www.typescriptlang.org/) based on UI lib with [*Storybook*](https://storybook.js.org/) and
 [*Storyshots*](https://storybook.js.org/docs/testing/structural-testing/) in [*Lerna*](https://lerna.js.org/) monorepo
