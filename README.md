@@ -24,9 +24,9 @@ Minimalistic template for [*Create-React-App*](https://create-react-app.dev/) in
 
 ## Direct ancestors (also by code)
 
-- [cra-ts-storybook-snapshot-testing](https://github.com/softspider/cra-ts-storybook-snapshot-testing)
-- [Minimalistic React module in TypeScript with Storybook and Storyshots](https://github.com/softspider/react-ts-storybook-storyshots)
-- [lerna](https://github.com/softspider/lerna)
+- [cra-ts-storybook-snapshot-testing](https://github.com/softspiders/cra-ts-storybook-snapshot-testing)
+- [Minimalistic React module in TypeScript with Storybook and Storyshots](https://github.com/softspiders/react-ts-storybook-storyshots)
+- [lerna](https://github.com/softspiders/lerna)
 
 ---
 
