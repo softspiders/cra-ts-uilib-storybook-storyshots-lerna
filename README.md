@@ -1,7 +1,8 @@
 SOFTSPIDERS
+
 # cra-ts-uilib-storybook-storyshots-lerna
 
-UNDER CONSTRUCTION
+UNDER DEVELOPMENT
 
 ***CRA and Lerna do not support each other yet, so for now we are waiting with hope.***
 
