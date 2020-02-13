@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # cra-ts-uilib-storybook-storyshots-lerna
 
@@ -15,6 +15,7 @@ Minimalistic template for [*Create-React-App*](https://create-react-app.dev/) in
 - jest
 - lerna
 - react
+- starter
 - storybook
 - storyshot
 - template
